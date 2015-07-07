@@ -7,5 +7,7 @@ development
 
 3) Now if you type grunt server in your command line (from the directory of the project) and open your browser to http://localhost:9000, you'll access the index.html page.
 
+4) Start the grunt server task, edit the index.html file and you'll see you're browser refreshing
+
 
 
